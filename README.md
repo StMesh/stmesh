@@ -1,5 +1,5 @@
 ## Hi there 👋
-Starlike Design has developed a new approach to mesh restoration design, with prototype implementations, St*Mesh, and its successor, CO2Mesh.   The latter is a rewrite to generalize its application to multiyear designs and enable use of reinforcement learning and probabilistic programming techniques.  This website, still under construction, describes these implementations.
+Starlike Design has developed a new approach to mesh restoration design, with prototype implementations, St*Mesh, and its successor, St**Mesh.   The latter is a rewrite to generalize its application to multiyear designs and enable use of reinforcement learning and probabilistic programming techniques.  This website, still under construction, describes these implementations.
 
  
 
