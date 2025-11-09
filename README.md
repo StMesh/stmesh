@@ -16,6 +16,9 @@ St*Mesh uses a relatively weak optimization technique combined an accurate probl
  
 
 The examples (net5, net8) shown here address the weakest case for St*Mesh:  single layer designs with no express links and unit-valued cost models.  We ask whether the St*Mesh approach can produce designs close to a good greedy heuristic algorithm, SSR, and how close to optimal solutions from a branch-and-bound algorithm.
+
+
+To be continued ...
 <!--
 **StMesh/stmesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
